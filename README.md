@@ -3,9 +3,8 @@
 This repository contains my homework for JOUR 407 Data Journalism class taught by Matt Waite at the University of Nebraska-Lincoln. The majority of the files involve data analysis by agate and documentation via Jupyter.
 
 ##Contents:
----
 ###[DataNormalizationHomework](DataNormalizationHomework)
-This folder contains a dirty data set of [leaking underground storage tanks] (http://www.deq.state.ne.us/lustsurf.nsf/pages/sssi "NDEQ lust database") from the Nebraska Department of Environmental Quality. I used (OpenRefine) [http://openrefine.org] to normalize the data before finding the top 20 owners using Agate.
+This folder contains a dirty data set of [leaking underground storage tanks] (http://www.deq.state.ne.us/lustsurf.nsf/pages/sssi "NDEQ lust database") from the Nebraska Department of Environmental Quality. I used [OpenRefine] [http://openrefine.org] to normalize the data before finding the top 20 owners using Agate.
 
 ###[DataSmellsHomework](DataSmellsHomework)
 This folder looked at data from the University of Nebraska-Lincoln Police Department. By using Agate's group_by and count functions, inconsistent locations and buildings were revealed. Additionally, outliers in stolen and damaged amounts were found using agate-stats.
