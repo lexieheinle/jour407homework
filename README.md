@@ -19,3 +19,5 @@ Using [seaborn] (https://stanford.edu/~mwaskom/software/seaborn/) a Python data 
 Using [general election data](http://www.sos.ne.gov/elec/prev_elec/index.html) from the Nebraska Secretary of State, I analyzed the changes in the state's political party distribution from 2000 to 2014. From my analysis, I found that if the current growth trend of the independent party continues, it would overtake the Democratic party by 2020.
 
 To find the party's distributions, I had to write custom functions to calculate the correct percents. The percent change was calculated using agate functions. Estimating the future growth was based on the instructions in [Numbers in the Newsroom](http://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) and required defining new functions.
+
+###[CellPhoneStory](CellPhoneStory)
