@@ -1,0 +1,44 @@
+GEO.id,Geographic identifier code
+GEO.id2,Id2
+GEO.display-label,Geographic area name
+GEO.annotation.id,Id
+NAICS.id,2007 NAICS code
+NAICS.display-label,Meaning of 2007 NAICS code
+NAICS.annotation.id,Id
+CBGROUP.id,"Gender, ethnicity, race, and veteran status code"
+CBGROUP.display-label,"Meaning of Gender, ethnicity, race, and veteran status code"
+HUSBWIFE.id,Husband and wife jointly-owned/operated business code
+HUSBWIFE.display-label,Meaning of Husband and wife jointly-owned/operated business code
+YEAR.id,Year
+FIRMALL,Number of firms with or without paid employees
+FIRMALL_PCT,Percent of number of respondent firms with or without paid employees (%)
+RCPALL,"Sales, receipts, or value of shipments of firms with or without paid employees ($1,000)"
+RCPALL_PCT,"Percent of sales, receipts, or value of shipments of respondent firms with or without paid employees (%)"
+FIRMPDEMP,Number of firms with paid employees
+FIRMPDEMP_PCT,Percent of number of respondent firms with paid employees (%)
+RCPPDEMP,"Sales, receipts, or value of shipments of firms with paid employees ($1,000)"
+RCPPDEMP_PCT,"Percent of sales, receipts, or value of shipments of respondent firms with paid employees (%)"
+EMP,Number of paid employees for pay period including March 12
+EMP_PCT,Percent of number of paid employees of respondent employer firms for pay period including March 12 (%)
+PAYANN,"Annual payroll ($1,000)"
+PAYANN_PCT,Percent of annual payroll of respondent employer firms (%)
+FIRMNOPD,Number of firms without paid employees
+FIRMNOPD_PCT,Percent of number of respondent firms without paid employees (%)
+RCPNOPD,"Sales, receipts, or value of shipments of firms without paid employees ($1,000)"
+RCPNOPD_PCT,"Percent of sales, receipts, or value of shipments of respondent firms without paid employees (%)"
+FIRMALL_S,Relative standard error of number of firms with or without paid employees (%)
+FIRMALL_PCT_S,Standard error of percent of number of respondent firms with or without paid employees (%)
+RCPALL_S,"Relative standard error of sales, receipts, or value of shipments of firms with or without paid employees (%)"
+RCPALL_PCT_S,"Standard error of percent of sales, receipts, or value of shipments of respondent firms with or without paid employees (%)"
+FIRMPDEMP_S,Relative standard error of number of firms with paid employees (%)
+FIRMPDEMP_PCT_S,Standard error of percent of number of respondent firms with paid employees (%)
+RCPPDEMP_S,"Relative standard error of sales, receipts, or value of shipments of firms with paid employees (%)"
+RCPPDEMP_PCT_S,"Standard error of percent of sales, receipts, or value of shipments of respondent firms with paid employees (%)"
+EMP_S,Relative standard error of number of paid employees for pay period including March 12 (%)
+EMP_PCT_S,Standard error of percent of number of paid employees of respondent employer firms for pay period including March 12 (%)
+PAYANN_S,Relative standard error of annual payroll (%)
+PAYANN_PCT_S,Standard error of percent of annual payroll of respondent employer firms (%)
+FIRMNOPD_S,Relative standard error of number of firms without paid employees (%)
+FIRMNOPD_PCT_S,Standard error of percent of number of respondent firms without paid employees (%)
+RCPNOPD_S,"Relative standard error of sales, receipts, or value of shipments of firms without paid employees (%)"
+RCPNOPD_PCT_S,"Standard error of percent of sales, receipts, or value of shipments of respondent firms without paid employees (%)"

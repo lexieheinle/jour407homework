@@ -1,0 +1,90 @@
+SB0700CSCB01
+Statistics for All U.S. Firms That Were Jointly Owned and Operated by Spouses by Industry, Gender, Ethnicity, Race, and Veteran Status for the U.S.: 2007
+
+Note: This is a modified view of the original table.
+
+[NOTE: Includes firms with paid employees and firms with no paid employees. Data are based on the 2007 Economic Census, and the estimates of business ownership by gender, ethnicity, race, and veteran status are from the 2007 Survey of Business Owners. Detail may not add to total due to rounding or because a Hispanic firm may be of any race. Moreover, each owner had the option of selecting more than one race and therefore is included in each race selected. Respondent firms include all firms that responded to the characteristic(s) tabulated in this dataset and reported gender, ethnicity, race, or veteran status or that were publicly held or not classifiable by gender, ethnicity, race, and veteran status. Percentages are for respondent firms only and are not recalculated when the dataset is resorted.  Percentages are always based on total reporting (defined above) within a gender, ethnicity, race, veteran status, and/or industry group for the characteristics tabulated in this dataset. Firms with more than one domestic establishment are counted in each geographic area and industry in which they operate, but only once in the U.S. and state totals for all sectors. For information on confidentiality protection, sampling error, nonsampling error, and definitions, see Survey Methodology.]
+
+Universe Description
+The universe for the 2007 Survey of Business Owners (SBO) includes all U.S.
+  firms operating during 2007 with receipts of $1,000 or more which are classified
+  in the North American Industry Classification System (NAICS) sectors 11 through
+  99, except for NAICS 111, 112, 481111, 482, 491, 525, 813, 814, and 92 which
+  are not covered. Firms with more than one domestic establishment are counted
+  in each geographic area and industry in which they operate, but only once in
+  the U.S. total.
+
+In this file, "respondent firms" refers to all firms that reported gender,
+ethnicity, race, or veteran status for at least one owner or returned a survey form
+with at least one item completed and were publicly held or
+not classifiable by gender, ethnicity, race, and veteran status.
+
+Data Items
+This file contains data on:
+    Number of firms, firms with paid employees, and firms with no paid employees
+    Sales and receipts for all firms, firms with paid employees, and firms with no paid employees
+    Number of employees for firms with paid employees
+    Annual payroll for firms with paid employees
+    Percent of all respondent firms, respondent firms with paid employees, and respondent firms with no paid employees
+    Percent of sales and receipts of all respondent firms, respondent firms with paid employees, and respondent firms with no paid employees
+    Percent of number of employees of respondent firms with paid employees
+    Percent of annual payroll of respondent firms with paid employees
+
+Geographic Coverage
+The data are shown at the U.S. level only.
+
+Industry Detail
+The data are shown for the total of all sectors (NAICS 00) and at the 2-digit NAICS code level.
+
+Other Variables Identifying Records
+The data are published by whether the business was jointly-owned or operated by spouses in 2007  and by gender, ethnicity, race, and veteran status.
+Release Schedule
+The data in this file will be released in June 2011.
+
+Related Data Files
+This file is related to all other 2007 SBO files.
+
+Data Limitations
+Refer to Methodology for additional
+ information.
+
+File Sequence
+Data are presented in ascending levels by:
+
+   NAICS code (NAICS2007)
+   Gender, ethnicity, race, and veteran status (CBGROUP)
+Whether the business was jointly-owned or operated by spouses in 2007 (HUSBWIFE)
+
+The data are sorted on underlying control field values, so control fields may not appear in alphabetical order.
+
+Estimated File Size
+5 MB
+
+E$X
+	X	Not applicable
+
+F7$601
+	(601)	Crop and Animal Production (NAICS 111 and 112) are out of scope of the 2007 Survey of Business Owners.
+
+E$S
+	S	Withheld because estimate did not meet publication standards
+
+E$D
+	D	Withheld to avoid disclosing data for individual companies; data are included in higher level totals
+
+E$b
+	b	20 to 99 employees
+
+F7$603
+	(603)	Scheduled Passenger Air Transportation (NAICS 481111), Rail Transportation (NAICS 482), and the Postal Service (NAICS 491) are out of scope of the 2007 Survey of Business Owners.
+
+F7$604
+	(604)	Funds, Trusts, and Other Financial Vehicles (NAICS 525) are out of scope of the 2007 Survey of Business Owners.
+
+F7$605
+	(605)	Religious, Grantmaking, Civic, Professional, and Similar Organizations (NAICS 813) and Private Households (NAICS 814) are out of scope of the 2007 Survey of Business Owners.
+
+Source: U.S. Census Bureau, 2007 Survey of Business Owners
+Note: The data in this file are based on the 2007 Economic Census, Survey of Business Owners (SBO). To maintain confidentiality, the Census Bureau suppresses data to protect the identity of any business or individual. The census results in this file contain sampling and nonsampling errors. Data users who create their own estimates using data from this file should cite the Census Bureau as the source of the original data only. For the full technical documentation, see the Survey Methodology.
+
+
